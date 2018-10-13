@@ -3,7 +3,7 @@ title: McCall Consulting, LLC
 description: "A one-stop shop for all of your technology and VA needs."
 baseurl: /mccallconsulting # the subpath of your site, e.g. /blog
 url: brittleigh.github.io # the name of your domain
-logo_url: svg/min/logo.png
+logo_url: svg/min/logo.jpg
 
 # Hero
 hero: 
@@ -33,7 +33,7 @@ testimonials:
 map:
     zoom: 16
     address: Redmond, WA
-    address_details: svg/min/logo.jpeg
+    address_details: svg/min/logo.jpg
 
 # Social settings
 facebook: http://facebook.com
