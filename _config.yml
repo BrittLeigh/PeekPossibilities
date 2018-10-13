@@ -36,15 +36,15 @@ map:
     address_details: svg/min/logo.jpg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
+#facebook: http://facebook.com
+#twitter: http://twitter.com
+#instagram: http://instagram.com
 #youtube: http://youtube.com
 #skype: skype:
 feed: yes
 
 # Footer
-copyright: © 2017 McCall Consulting, LLC - All rights reserved
+copyright: © 2011 McCall Consulting, LLC - All rights reserved
 
 # Build settings
 markdown: kramdown
