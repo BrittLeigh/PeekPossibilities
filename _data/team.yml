@@ -1,34 +1,24 @@
-- name: Britta Perry
+- name: Josh McCall
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: joshmccall221@gmail.com
+  phone: (515) 999-0221
 
-- name: Troy Barnes 
+- name: Brittany McCall 
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: brittany.leigh.mccall@gmail.com
+  phone: (515) 231-7153
 
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+#- name: Annie
+#  image: team.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
 
-- name: Jeff Winger
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+#- name: Jeff Winger
+#  image: team.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
 
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+#- name: Britta Perry
+#  image: team.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
