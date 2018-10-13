@@ -2,7 +2,7 @@
 title: McCall Consulting, LLC | Tech & VA
 description: "A one-stop shop for all of your technology and VA needs."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "brittleigh.github.io/mccallconsulting" # the name of your domain
+url: brittleigh.github.io/mccallconsulting # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
