@@ -20,6 +20,11 @@ contact:
     email: joshmccall221@gmail.com
     address: Remote Work- based in PNW
 
+# Opening hours
+monday_friday: 9:00 – 15:00
+saturday: 8:00 – 12:00
+sunday: By appt online
+
 # Testimonials
 testimonials:
     testimonials_img: parallax.jpg
@@ -27,7 +32,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Redmond, WA
     address_details: svg/min/logo.svg
 
 # Social settings
