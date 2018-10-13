@@ -31,7 +31,7 @@ testimonials:
 
 # Map
 map:
-    zoom: 17
+    zoom: 16
     address: Redmond, WA
     address_details: svg/min/logo.svg
 
