@@ -33,7 +33,7 @@ testimonials:
 map:
     zoom: 16
     address: Redmond, WA
-    address_details: svg/min/logo.jpg
+    address_details: 
 
 # Social settings
 facebook: http://facebook.com
