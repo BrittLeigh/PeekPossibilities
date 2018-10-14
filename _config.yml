@@ -1,7 +1,7 @@
 # Site settings
 title: McCall Consulting, LLC
 description: "A one-stop shop for all of your technology and VA needs."
-baseurl: /mccallconsulting # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: mccallconsulting.tech # the name of your domain
 logo_url: svg/min/logo.jpg
 
