@@ -1,13 +1,13 @@
-- icon: icon-globe
+- icon: icon-flask
   title: Website Design
   description: ---
 
-- icon: icon-diamond
-  title: Cool Stuff
+- icon: icon-bolt
+  title: Mobile/Hybrid App
   description: ---
 
-- icon: icon-calendar
-  title: ---
+- icon: icon-chevron-right
+  title: Node/PWA
   description: --- 
 
 - icon: icon-group
@@ -15,7 +15,7 @@
   description: ---
 
 - icon: icon-envelope
-  title: Email Marketing Support
+  title: Email Marketing Implementation
   description: ---
 
 - icon: icon-comments
