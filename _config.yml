@@ -12,7 +12,7 @@ hero:
     hero_description: A one-stop shop for all of your technology and VA needs.
 
 # Contact form
-api_token: # Enter API token here
+api_token: a87d0c7bcb04708aff760b7bc5a6293a
 
 # Contact info
 contact:
