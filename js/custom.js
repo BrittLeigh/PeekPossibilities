@@ -27,8 +27,9 @@
     ----------------------------------------------*/
     $("#team-carousel").owlCarousel({
  
-        autoPlay: 5000, //Set AutoPlay to 5 seconds
-
+        //autoPlay: 5000, //Set AutoPlay to 5 seconds
+        loop:false,
+        center: true,
         items : 2,
         itemsDesktopSmall : [979,2],
         stopOnHover: true
