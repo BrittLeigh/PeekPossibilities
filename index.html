@@ -156,8 +156,7 @@ published: true
 <!-- Start Our team -->
 <div id="team" class="team"> 
     <h2 class="section-title">Our Team</h2> 
-    <div style="width:auto;display:inline-block; text-align:center">
-    <div id="team-carousel" style="display:inline-block">
+    <div id="team-carousel">
     {% for member in site.data.team %}
         <div class="expandable-box">
             <div class="expandable-box-top">
@@ -172,7 +171,6 @@ published: true
             </div>
         </div>
     {% endfor %}
-    </div>
     </div>
 </div>
 <!-- End Our team -->
