@@ -24,7 +24,7 @@
     });
 
     /* Team slideshow
-    ----------------------------------------------
+    ----------------------------------------------*/
     $("#team-carousel").owlCarousel({
  
         autoPlay: 5000, //Set AutoPlay to 5 seconds
@@ -34,7 +34,7 @@
         stopOnHover: true
  
     });
-*/
+
     /* Testimonials slideshow
     ----------------------------------------------*/
     $("#testimonial-carousel").owlCarousel({
