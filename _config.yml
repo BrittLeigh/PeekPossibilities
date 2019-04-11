@@ -1,24 +1,24 @@
 # Site settings
-title: McCall Consulting, LLC | Tech & VA
-description: "A one-stop shop for all of your technology and VA needs."
+title: Peek Possibilities, LLC | OT
+description: "Helping moms heal and kids thrive."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "brittleigh.github.io/mccallconsulting/" # the name of your domain
+url: "brittleigh.github.io/peekpossibilities/" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: McCall Consulting, LLC
-    hero_description: A one-stop shop for all of your technology and VA needs.
+    hero_title: Peek Possibilities, LLC
+    hero_description: Helping moms heal and kids thrive.
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 515 999 0221
-    email: joshmccall221@gmail.com
-    address: Remote Work- based in PNW
+    phone: 575-208-5434
+    email: peekpossibilities@gmail.com
+    address: Roswell, NM
 
 # Testimonials
 testimonials:
@@ -39,7 +39,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2017 McCall Consulting, LLC - All rights reserved
+copyright: © 2019 Peek Possibilities, LLC - All rights reserved
 
 # Build settings
 markdown: kramdown
